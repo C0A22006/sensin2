@@ -3,3 +3,4 @@ kondokoso
 pullするぜ
 sshでpushしちゃおう!
 もうpullしちゃってびっくり
+延長線
