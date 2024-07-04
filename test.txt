@@ -2,3 +2,4 @@ testだよー
 kondokoso
 pullするぜ
 sshでpushしちゃおう!
+もうpullしちゃってびっくり
