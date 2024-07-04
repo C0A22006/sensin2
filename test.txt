@@ -1,3 +1,4 @@
 testだよー
 kondokoso
-pushするぜ
+pullするぜ
+sshでpushしちゃおう
