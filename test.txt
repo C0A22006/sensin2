@@ -1,4 +1,4 @@
 testだよー
 kondokoso
 pullするぜ
-sshでpushしちゃおう
+sshでpushしちゃおう!
